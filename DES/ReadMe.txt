@@ -4,7 +4,7 @@ Implementation of DES in python
 
 ## Contents
 
-ReadMe.txt ---- readme file for Assignment 1
+ReadMe.txt ---- readme file for DES algo
 cipher.txt ---- ciphertext used for letter frequency and affine brute forcing attacks
 letterFreq.py - Solution for Q1a, letter frequency analysis
 plain.txt ----- Resulting file after running letterFreq.py, provides plaintext after substitution from letter freq
