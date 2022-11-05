@@ -1,14 +1,12 @@
 ## Synopsis
 
-Assignment 2 of Fundamental Concepts of Cryptography ISEC2000
+Python implementation of RSA algorithm
 
 ## Contents
 
-ReadMe.txt ------------------- readme file for Assignment 2
-RSA.py ----------------------- File containing functions for the RSA encryption and decryption algorithm (refer to usage section)
-RSA-text.txt ----------------- File used to test the functionality of RSA.py
-Report_20027047.pdf ---------- Report for Assignment 2
-DeclarationOfOriginality.pdf - Declaration of originality
+ReadMe.txt - readme file for RSA algo
+RSA.py ----- File containing functions for the RSA encryption and decryption algorithm (refer to usage section)
+Report.pdf - Report for details on RSA algo, among other things
 
 ## Dependencies
 
@@ -25,4 +23,4 @@ Once running, you will be presented with 4 options;
 
 ## Version Information
 
-17/JULY/2022 - initial version of Assignment 2 programs
+17/JULY/2022 - initial version of RSA Algo
